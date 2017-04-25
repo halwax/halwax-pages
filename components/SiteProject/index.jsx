@@ -36,7 +36,7 @@ class SiteProject extends React.Component {
                   <p>
                     { config.siteDescr }
                     <a href={ config.siteTwitterUrl }>
-                      <br></br> <strong>{ config.siteAuthor }</strong> on Twitter</a>
+                      <br></br> <strong>{ config.siteAuthor }</strong></a>
                   </p>
                 </div>
               </div>
